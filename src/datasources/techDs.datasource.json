@@ -1,0 +1,13 @@
+
+{
+  "name": "techDs",
+  "connector": "mongodb",
+  "url": "",
+  "host": "3.83.220.220",
+  "port": 27017,
+  "user": "svcAALM",
+  "password": "Uzg539bHs8",
+  "database": "aalm-db",
+  "useNewUrlParser": true
+
+}
